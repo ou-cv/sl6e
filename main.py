@@ -10,7 +10,7 @@ import time
 # ============================================================
 SERVER_IP   = "194.45.197.196"
 SERVER_PORT = "30120"
-GUILD_ID    = 1510735912185630812
+GUILD_ID    = 1482492436075778138
 
 BASE_URL = f"http://{SERVER_IP}:{SERVER_PORT}/players.json"
 INFO_URL = f"http://{SERVER_IP}:{SERVER_PORT}/info.json"
